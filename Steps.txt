@@ -1,0 +1,6 @@
+test1-Nothing(other algo)
+test2-fft up to phase on image
+test3-fft up to phase on logo
+test4-combile image and logo
+test5-addinf alpha factor
+ 
